@@ -8,7 +8,7 @@ This project is a simple Python-based web scraper that collects real-time weathe
 
 ## 🔍 Features
 
-- Web scrapes live weather data from [Insert Weather Website Name or URL]
+- Web scrapes live weather data 
 - Extracts key information: temperature, humidity, condition, wind, etc.
 - Updates data every few seconds (customizable interval)
 - Simple and clean Python code using `requests` and `BeautifulSoup`
